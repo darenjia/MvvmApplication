@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_top_text"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:drawableStart="@drawable/main_top_arrow"
+    android:drawablePadding="10dp"
+    android:gravity="center_vertical"
+    android:text="首页"
+    android:textColor="@color/colorText"
+    android:textSize="@dimen/title_font_size" />

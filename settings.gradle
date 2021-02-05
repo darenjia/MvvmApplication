@@ -1,0 +1,4 @@
+include ':gasuserrecord'
+include ':base'
+include ':app'
+rootProject.name = "MvvmApplication"
